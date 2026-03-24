@@ -6,7 +6,6 @@ A fully functional, decentralized Web3 application built on the Stellar Soroban 
 
 *   **Contract ID / Address:** `CC34OUN4BYZX4DDDQEGPHNBPC632H75EBHKXVIVGZD4C46PYDDWXYXR4a82e4ed3bc075c7c`
 *   **Network:** Stellar Testnet
-*   **Deployment Link:** `http://localhost:8000`
 
 ## Dashboard Preview
 
